@@ -1,0 +1,8 @@
+Create environment process starts...
+['virtualenv', 'proj_env2']
+process_id: 13168
+b"Using base prefix 'c:\\\\users\\\\rajes\\\\appdata\\\\local\\\\programs\\\\python\\\\python36-32'\r\nNew python executable in C:\\Rajesh-Files\\my_projects\\pyenv_manager\\proj_env2\\Scripts\\python.exe\r\nInstalling setuptools, pip, wheel...done.\r\n" None
+Commit done 0
+
+
+create environment process completed..!!

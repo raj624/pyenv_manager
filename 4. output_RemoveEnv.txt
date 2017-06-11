@@ -1,0 +1,4 @@
+
+remove environment process starts..
+C:\Rajesh-Files\my_projects\pyenv_manager\proj_env2
+remove environment process completed..!!

@@ -1,0 +1,46 @@
+
+manage environment process starts..
+['activate.bat', 'C:\\Rajesh-Files\\my_projects\\pyenv_manager\\proj_env2\\Scripts']
+process_id: 12344
+b'' None
+Commit done 0
+
+
+['pip', 'install', 'pytest']
+process_id: 14396
+b'Collecting pytest\r\n  Retrying (Retry(total=4, connect=None, read=None, redirect=None)) after connection broken by \'NewConnectionError(\'<pip._vendor.requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03F54310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed\',)\': /simple/pytest/\r\n  Using cached pytest-3.1.2-py2.py3-none-any.whl\r\nCollecting py>=1.4.33 (from pytest)\r\n  Using cached py-1.4.34-py2.py3-none-any.whl\r\nRequirement already satisfied: setuptools in c:\\rajesh-files\\my_projects\\pyenv_manager\\proj_env2\\lib\\site-packages (from pytest)\r\nCollecting colorama; sys_platform == "win32" (from pytest)\r\n  Using cached colorama-0.3.9-py2.py3-none-any.whl\r\nInstalling collected packages: py, colorama, pytest\r\nSuccessfully installed colorama-0.3.9 py-1.4.34 pytest-3.1.2\r\n' None
+Commit done 0
+
+
+['pip', 'install', 'pytz']
+process_id: 15136
+b'Collecting pytz\r\n  Using cached pytz-2017.2-py2.py3-none-any.whl\r\nInstalling collected packages: pytz\r\nSuccessfully installed pytz-2017.2\r\n' None
+Commit done 0
+
+
+['pip', 'install', 'MAN']
+process_id: 5612
+b'Collecting MAN\r\n  Could not find a version that satisfies the requirement MAN (from versions: )\r\nNo matching distribution found for MAN\r\n' None
+commit failed 
+
+['pip', 'freeze', '>', 'requirements.txt']
+process_id: 8432
+b'' None
+Commit done 0
+
+
+no package is present to Uninstall from virtual env
+['pip', 'freeze', '>', 'requirements.txt']
+process_id: 3312
+b'' None
+Commit done 0
+
+
+['pip', 'list', '--local']
+process_id: 11448
+b'DEPRECATION: The default format will switch to columns in the future. You can use --format=(legacy|columns) (or define a format=(legacy|columns) in your pip.conf under the [list] section) to disable this warning.\r\ncolorama (0.3.9)\r\npip (9.0.1)\r\npy (1.4.34)\r\npytest (3.1.2)\r\npytz (2017.2)\r\nsetuptools (36.0.1)\r\nwheel (0.29.0)\r\n' None
+Commit done 0
+
+
+C:\Rajesh-Files\my_projects\pyenv_manager
+activate process completed...and environment maintenance completed...!!

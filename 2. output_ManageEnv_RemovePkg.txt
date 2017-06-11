@@ -1,0 +1,37 @@
+
+manage environment process starts..
+['activate.bat', 'C:\\Rajesh-Files\\my_projects\\pyenv_manager\\proj_env2\\Scripts']
+process_id: 12712
+b'' None
+Commit done 0
+
+
+no package present to install in virtual env
+['pip', 'freeze', '>', 'requirements.txt']
+process_id: 13064
+b'' None
+Commit done 0
+
+
+package is not present to uninstall : pytz
+package is not present to uninstall : KING
+['pip', 'uninstall', '-y', 'pytest']
+process_id: 11376
+b'Uninstalling pytest-3.1.2:\r\n  Successfully uninstalled pytest-3.1.2\r\n' None
+Commit done 0
+
+
+['pip', 'list', '--local']
+process_id: 12960
+b'DEPRECATION: The default format will switch to columns in the future. You can use --format=(legacy|columns) (or define a format=(legacy|columns) in your pip.conf under the [list] section) to disable this warning.\r\ncolorama (0.3.9)\r\npip (9.0.1)\r\npy (1.4.34)\r\nsetuptools (36.0.1)\r\nwheel (0.29.0)\r\n' None
+Commit done 0
+
+
+['pip', 'freeze', '>', 'requirements.txt']
+process_id: 13644
+b'' None
+Commit done 0
+
+
+C:\Rajesh-Files\my_projects\pyenv_manager
+activate process completed...and environment maintenance completed...!!
